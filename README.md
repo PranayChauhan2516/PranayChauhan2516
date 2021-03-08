@@ -30,11 +30,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayChauhan2516&layout=compact&hide=html" alt="PranayChauhan2516" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranayChauhan2516&show_icons=true" alt="PranayChauhan2516" /></p>
-
-
+![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayChauhan2516&count_private=true)
 
 <!--
 **PranayChauhan2516/PranayChauhan2516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
