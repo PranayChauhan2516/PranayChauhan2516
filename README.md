@@ -35,10 +35,6 @@
 &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/pranay.2516/) 
 <br />
 
-## &#x1f4c8; GitHub Stats
-
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayChauhan2516&count_private=true)
-
 <!--
 **PranayChauhan2516/PranayChauhan2516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
